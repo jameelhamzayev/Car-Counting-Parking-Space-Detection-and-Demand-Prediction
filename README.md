@@ -1,4 +1,4 @@
-###Smart Parking Management System
+**Smart Parking Management System**
 
 Our project aims to create an efficient, affordable, and automated parking management system that addresses urban parking challenges, reduces congestion, and enhances user experience. Utilizing advanced technologies such as IoT, AI, and real-time data analytics, our system will monitor parking space availability, streamline the booking process, and improve the overall parking experience—all at a lower cost for users.
 
